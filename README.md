@@ -17,3 +17,6 @@ PWA offline-first (español, Argentina) de consulta farmacológica, sueroterapia
 
 ## Pendiente (roadmap)
 Más fármacos y sistemas clínicos, exportación PDF propia (hoy: imprimir/guardar PDF), compatibilidad Y-site, PNG para `apple-touch-icon`, tests unitarios de cálculo, revisión por farmacéutico y médico antes de uso asistencial.
+
+## v0.2
+`data/extras.js` (vitaminas, multivitamínicos, patologías carenciales, valores de referencia) + `labs.js` (evaluador de resultados y panel de anemia). Rangos orientativos: prevalece siempre el del laboratorio.

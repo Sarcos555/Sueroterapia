@@ -17,3 +17,4 @@ label{font-size:13px;color:var(--mu)}h2,h3{margin:.4em 0}.mu{color:var(--mu);fon
 .res{font-size:28px;font-weight:700;color:var(--pr)}pre{white-space:pre-wrap;background:var(--bg);border-radius:10px;padding:10px;font-size:13px}
 .bar{height:22px;border-radius:11px;background:var(--bd);overflow:hidden;display:flex}.bar i{display:block;height:100%}
 @media print{header,nav,button,input,select{display:none}body{padding:0}}
+nav a{font-size:10px}
